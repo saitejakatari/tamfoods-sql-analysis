@@ -39,7 +39,7 @@ categories and 4 Chennai neighborhoods.
 > **Note:** The data is fictional, generated for portfolio purposes. The 
 > restaurants and areas are real Chennai names; the numbers and patterns 
 > are designed to surface analytically interesting findings.
-> columns like `time_of_day` and `day_type` are available for future 
+> Additional columns like `time_of_day` and `day_type` are available for future 
 > exploration but weren't part of this initial analysis.
 
 ---
