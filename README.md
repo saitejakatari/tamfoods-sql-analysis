@@ -146,7 +146,7 @@ takes ~5 minutes.
 ### Step 1 — Clone or download this repository
 
 ```bash
-git clone https://github.com/[your-username]/tamfoods-sql-analysis.git
+git clone https://github.com/saitejakatari/tamfoods-sql-analysis.git
 cd tamfoods-sql-analysis
 ```
 
